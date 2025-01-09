@@ -1,2 +1,2 @@
-# HighSeas-Stopwatch
-Simple stopwatch made with React and TailwindCSS! 🕛
+# HighSeas: Stopwatch 🕛
+Simple stopwatch made with **React**, **Typescript** and TailwindCSS!
